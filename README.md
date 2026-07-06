@@ -56,11 +56,12 @@ The project uses two CSV files:
 
 ---
 
+
+
 ## 📷 Dashboard Preview
 
-> Dashboard screenshot is available in **Dashboard_Screenshot.png**
+> Dashboard screenshot is available in Dashboard_Screenshot.png
 
----
 
 ## 📁 Repository Structure
 
